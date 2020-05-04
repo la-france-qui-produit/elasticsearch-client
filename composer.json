@@ -1,6 +1,5 @@
 {
     "name": "produits-de-france/elasticsearch-client",
-    "version" : "0.1",
     "type" : "symfony-bundle",
     "license": "proprietary",
     "require": {
@@ -15,6 +14,7 @@
     },
     "require-dev": {
     },
+    "minimum-stability": "dev",
     "config": {
         "preferred-install": {
             "*": "dist"
