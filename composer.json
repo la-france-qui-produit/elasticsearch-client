@@ -1,9 +1,10 @@
 {
     "name": "la-france-qui-produit/elasticsearch-client",
+    "description": "Simple wrapper of Elasticsearch PHP client",
     "type" : "symfony-bundle",
     "license": "proprietary",
     "require": {
-        "php": "^7.0",
+        "php": ">=7.0",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "elasticsearch/elasticsearch": "^7.6",
