@@ -1,5 +1,5 @@
 {
-    "name": "produits-de-france/elasticsearch-client",
+    "name": "la-france-qui-produit/elasticsearch-client",
     "type" : "symfony-bundle",
     "license": "proprietary",
     "require": {
