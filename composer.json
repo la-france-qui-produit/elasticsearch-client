@@ -13,12 +13,12 @@
     },
     "autoload": {
         "psr-4": {
-            "ProduitsDeFrance\\ElasticsearchClient\\": "src/"
+            "ProduitsDeFrance\\ElasticsearchClientBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ProduitsDeFrance\\ElasticsearchClient\\Tests\\": "tests/"
+            "ProduitsDeFrance\\ElasticsearchClientBundle\\Tests\\": "tests/"
         }
     }
 }
