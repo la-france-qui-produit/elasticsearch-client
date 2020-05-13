@@ -10,7 +10,7 @@ class Configuration implements ConfigurationInterface
     public function getConfigTreeBuilder()
     {
         $treeBuilder = new TreeBuilder();
-        $treeBuilder->root('pdf_elasticsearch_client');
+        $treeBuilder->root('lfqp_elasticsearch_client');
         
 
         return $treeBuilder;

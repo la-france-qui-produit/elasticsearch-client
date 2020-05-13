@@ -1,3 +1,10 @@
 services :
   ProduitsDeFrance\ElasticsearchClientBundle\Service\Client :
     autoconfigure : true
+
+
+#services:
+#  _instanceof:
+#    ProduitsDeFrance\ElasticsearchClientBundle\Service\ClientInterface:
+#      tags:
+#        - !php/const ProduitsDeFrance\ElasticsearchClientBundle\Service\ClientInterface::TAG                                                                                                                                                                                                                                                      
