@@ -1,5 +1,5 @@
 services :
-  ProduitsDeFrance\ElasticsearchClientBundle\Service\Client :
+  LaFranceQuiProduit\ElasticsearchClientBundle\Service\Client :
     autoconfigure : true
 
 

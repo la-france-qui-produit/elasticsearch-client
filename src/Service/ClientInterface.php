@@ -1,6 +1,6 @@
 <?php
 
-namespace ProduitsDeFrance\ElasticsearchClientBundle\Service;
+namespace LaFranceQuiProduit\ElasticsearchClientBundle\Service;
 
 /**
  * ClientInterface

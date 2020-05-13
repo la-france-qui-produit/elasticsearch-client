@@ -1,6 +1,6 @@
 <?php
 
-namespace ProduitsDeFrance\ElasticsearchClientBundle\Entity;
+namespace LaFranceQuiProduit\ElasticsearchClientBundle\Entity;
 
 /**
  * Standard Elasticsearch entity.

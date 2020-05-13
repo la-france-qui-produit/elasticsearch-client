@@ -1,6 +1,6 @@
 <?php
 
-namespace ProduitsDeFrance\ElasticsearchClientBundle\DependencyInjection;
+namespace LaFranceQuiProduit\ElasticsearchClientBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

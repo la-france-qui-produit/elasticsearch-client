@@ -1,8 +1,8 @@
 <?php
 
-namespace ProduitsDeFrance\ElasticsearchClientBundle;
+namespace LaFranceQuiProduit\ElasticsearchClientBundle;
 
-use ProduitsDeFrance\ElasticsearchClientBundle\Service\ClientInterface;
+use LaFranceQuiProduit\ElasticsearchClientBundle\Service\ClientInterface;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\HttpKernel\Bundle\Bundle;

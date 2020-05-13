@@ -1,6 +1,6 @@
 <?php
 
-namespace ProduitsDeFrance\ElasticsearchClientBundle\Entity\EntityInterface;
+namespace LaFranceQuiProduit\ElasticsearchClientBundle\Entity;
 
 /**
  * Interface of standard Elasticsearch entity.
